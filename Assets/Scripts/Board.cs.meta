@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 656d8703cdff8c34192e016b55a12698
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabTile: {fileID: 387099931791805429, guid: bb61d96db84ec9a4a8d61b0ccd479d09, type: 3}
+  - prefabPeg: {fileID: 8251056837416847729, guid: bb94f8c93e55f5f47963c648a99e5d07, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
